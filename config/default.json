@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "george mern project",
+    "mongoUri": "mongodb+srv://triffith:123qwerty@cluster0.3rjjd.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
